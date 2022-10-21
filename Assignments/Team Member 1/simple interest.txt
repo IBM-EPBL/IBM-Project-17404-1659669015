@@ -1,0 +1,36 @@
+#include<stdio.h>
+
+int main()
+
+{
+    
+//input
+
+    int princ,year;
+
+    float inter;
+
+    scanf("%d",&princ);
+
+    scanf("%d",&year);
+
+    scanf("%f",&inter);
+
+//process
+
+    float amount,gain;
+
+    gain = (princ*year*inter)/100;
+
+    amount = gain+princ;
+
+//ountput
+
+    printf("the gain value is %f\n",gain);
+
+    printf("the total amount is %f",amount);
+
+    return 0;
+
+    
+}
