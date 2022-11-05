@@ -1,11 +1,10 @@
 # IBM-Project-17404-1659669015
 Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
+
 Category: Artificial Intelligence
+Skills Required:Python,CNN,IBM Cloud,IBM Watson Studio,IBM Cloudant DB,Deep Learning,Python-Flask
 
-Skills Required:
-Python,CNN,IBM Cloud,IBM Watson Studio,IBM Cloudant DB,Deep Learning,Python-Flask
 Project Description:
-
 Natural disasters not only disturb the human ecological system but also destroy the properties 
 and critical infrastructures of human societies and even lead to permanent change in the ecosystem. 
 Disaster can be caused by naturally occurring events such as earthquakes, cyclones, floods, and wildfires. 
